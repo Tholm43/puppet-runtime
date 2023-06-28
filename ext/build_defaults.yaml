@@ -1,5 +1,0 @@
----
-project: 'puppet-runtime'
-sign_tar: FALSE
-vanagon_project: TRUE
-build_tar: FALSE
